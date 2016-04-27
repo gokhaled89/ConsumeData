@@ -40,44 +40,44 @@
 			"sales": 9
 		}]
 	}, {
-		"category": "Sales",
+		"category": "Technology",
 		"region": "West",
 		"monthlySales": [{
 			"month": 20130104,
-			"sales": 57
+			"sales": 10
 		}, {
 			"month": 20130204,
-			"sales": 77
+			"sales": 45
 		}, {
 			"month": 20130304,
-			"sales": 12
+			"sales": 81
 		}, {
 			"month": 20130404,
-			"sales": 64
+			"sales": 60
 		}, {
 			"month": 20130504,
-			"sales": 19
+			"sales": 44
 		}, {
 			"month": 20130604,
-			"sales": 37
+			"sales": 21
 		}, {
 			"month": 20130704,
-			"sales": 91
+			"sales": 7
 		}, {
 			"month": 20130804,
-			"sales": 67
+			"sales": 80
 		}, {
 			"month": 20130904,
-			"sales": 37
+			"sales": 24
 		}, {
 			"month": 20131004,
-			"sales": 49
+			"sales": 77
 		}, {
 			"month": 20131104,
-			"sales": 51
+			"sales": 29
 		}, {
 			"month": 20131204,
-			"sales": 9
+			"sales": 61
 		}]
 	}]
 }
